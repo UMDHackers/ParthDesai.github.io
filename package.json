@@ -1,0 +1,22 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "description": "Chat-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "sksc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMDHackers/ParthDesai.github.io.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "PARTH DESAI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMDHackers/ParthDesai.github.io/issues"
+  },
+  "homepage": "https://github.com/UMDHackers/ParthDesai.github.io#readme"
+}
